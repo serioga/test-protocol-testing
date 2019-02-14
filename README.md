@@ -1,4 +1,4 @@
-One protocol, multiple implementations, single test suit.
+One protocol, multiple implementations, single test suite.
 
 https://clojurians.slack.com/archives/C050HE28Y/p1550089203008900
 
