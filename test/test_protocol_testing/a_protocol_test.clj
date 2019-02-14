@@ -16,7 +16,7 @@
   (test/is (= "baz 3" (protocol/baz *impl* 3))))
 
 
-(defn test-suit
+(defn test-suite
   []
   (test-bar)
   (test-baz))

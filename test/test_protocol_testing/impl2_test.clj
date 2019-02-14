@@ -7,5 +7,5 @@
 (defn test-ns-hook []
   (binding [protocol-test/*impl* (impl2/->ProtocolImpl2)]
     (println "Running impl2-test")
-    (protocol-test/test-suit)
+    (protocol-test/test-suite)
     (println "[DONE] Running impl2-test")))
